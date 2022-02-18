@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arturcamposrodrigues-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
 
 
 ### Hi there, I'm Artur, welcome my GitHub 💻
@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[3]: https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US
