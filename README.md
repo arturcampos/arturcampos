@@ -1,5 +1,3 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arturcamposrodrigues-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
-
 
 [![Gmail Badge](https://img.shields.io/badge/-arturcampos13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arturcampos13@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-arturcamposrodrigues-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US/ "Connect on LinkedIn")
