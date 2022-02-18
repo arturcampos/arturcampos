@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
 
 
-[![Profile last updated](https://img.shields.io/github/last-commit/arturcampos/arturcampos/master?label=Last%20updated&style=flat)](https://github.com/arturcampos/arturcampos/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/arturcampos/arturcampos/main?label=Last%20updated&style=flat)](https://github.com/arturcampos/arturcampos/commits)
 
 
 <!--
