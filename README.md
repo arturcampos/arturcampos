@@ -1,22 +1,16 @@
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 ### Hi there, I'm Artur, welcome my GitHub 💻
 
-<hr />
-	<a href="mailto:arturcapos13@gmail.com">
-	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-	</a>
-<br/>
-
-### About Me
+## About Me
 - ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
 
 
 
-### About my coding activity
+## About my coding activity
 <div align="center">
   <a href="https://github.com/arturcampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
