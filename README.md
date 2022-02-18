@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-arturcamposrodrigues-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@_artur_campos-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_artur_campos "Follow on Twitter")
 
-
 ## Hi there, I'm Artur, welcome my GitHub 🪐
 
 ### About Me
 - ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
+- 🧰 At the moment I have more private work than public ones. Now I'm planning to change the game. 🎮
 
 
 ### About my coding activity
@@ -22,17 +22,25 @@
 </a>
 </div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
-  ----
+
 	
 ### ⚡ Technologies I love and use
   
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-darkred?style=flat-square&logo=java)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-darkred?style=flat-square&logo=springboot)
+![MongoDb](https://img.shields.io/badge/MongoDB-darkred?style=flat-square&logo=mongodb)
 ![Go](https://img.shields.io/badge/Go-darkblue?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat-square&logo=rabbitmq)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-gray?style=flat-square&logo=googleCloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=flat-square&logo=kubernetes)
+
 
 
 [![Profile last updated](https://img.shields.io/github/last-commit/arturcampos/arturcampos/main?label=Last%20updated&style=flat)](https://github.com/arturcampos/arturcampos/commits)
+  ![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
+  ----
 
 
 <!--
