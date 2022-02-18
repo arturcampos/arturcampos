@@ -1,10 +1,13 @@
+
+
+### Hi there, I'm Artur, welcome my GitHub. 🏗️
+
 <hr />
 	<a href="mailto:arturcapos13@gmail.com">
 	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 	</a>
 <br/>
 
-### Hi there, I'm Artur, welcome my GitHub.
 
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
