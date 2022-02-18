@@ -6,9 +6,9 @@
 	<a href="mailto:arturcapos13@gmail.com">
 	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 	</a>
-	<a target="_blank" href="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US">
-  	  <img align="left" width="22px" src="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US" />
-	</a>
+	---
+	[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+	---
 <br/>
 
 ### About Me
@@ -28,8 +28,8 @@
 ## ⚡ Technologies I love and use
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
 </div>
 
 
@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[1]: https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US
