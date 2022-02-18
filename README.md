@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_artur_campos-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_artur_campos "Follow on Twitter")
 
 
-## Hi there, I'm Artur, welcome my GitHub 💻
+## Hi there, I'm Artur, welcome my GitHub 🪐
 
 ### About Me
 - ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
