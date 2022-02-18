@@ -2,10 +2,6 @@
 	<a href="mailto:arturcapos13@gmail.com">
 	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 	</a>
-	<a href="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US">
-	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-	</a>
-
 <br/>
 
 ### Hi there, I'm Artur, welcome my GitHub.
