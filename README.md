@@ -18,7 +18,11 @@
   <a href="https://github.com/arturcampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=dark"/>
+  
 </div>
+<div>
+	![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
+	</div>
 	
 ### ⚡ Technologies I love and use
   
@@ -28,9 +32,9 @@
 </div>
 </br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
 
 
+[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
 
 
 <!--
@@ -47,3 +51,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
