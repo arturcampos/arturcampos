@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Platform Builders as Solution architect.
+- 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
 <!--
 **arturcampos/arturcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
