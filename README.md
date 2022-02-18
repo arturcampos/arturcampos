@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Artur, welcome my GitHub. 🏗️
+### Hi there, I'm Artur, welcome my GitHub 💻
 
 <hr />
 	<a href="mailto:arturcapos13@gmail.com">
@@ -8,13 +8,14 @@
 	</a>
 <br/>
 
-
+### About Me
+- ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
 
-### About Me
 
 
+### About my coding activity
 <div align="center">
   <a href="https://github.com/arturcampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
