@@ -13,11 +13,11 @@
 
 
 ### About my coding activity
-<div href="https://github.com/arturcampos">
-<a>
+<div >
+<a href="https://github.com/arturcampos">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
-<a>
+<a href="https://github.com/arturcampos">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=dark" />
 </a>
 </div>
