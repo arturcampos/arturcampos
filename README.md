@@ -1,9 +1,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arturcamposrodrigues-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-arturcampos-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_artur_campos "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-arturcampos13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arturcampos13@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-arturcamposrodrigues-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@_artur_campos-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_artur_campos "Follow on Twitter")
 
 
 ### Hi there, I'm Artur, welcome my GitHub 💻
