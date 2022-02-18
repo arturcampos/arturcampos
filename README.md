@@ -16,7 +16,7 @@
 ### About my coding activity
 <div align="center">
   <a href="https://github.com/arturcampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 	
@@ -26,10 +26,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
 </div>
-	
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/arturcampos)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
+
 
 
 
