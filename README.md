@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Artur, welcome my GitHub.
 
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
