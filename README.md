@@ -12,29 +12,27 @@
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
 
 
-
 ### About my coding activity
-<div align="center">
-  <a href="https://github.com/arturcampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=dark"/>
-  
+<div href="https://github.com/arturcampos">
+<a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=arturcampos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>
+<a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=dark" />
+</a>
 </div>
-<div>
-	![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
-	</div>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
+  ----
 	
 ### ⚡ Technologies I love and use
   
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
-</div>
-</br>
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/Go-darkblue?style=flat-square&logo=go)
+![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
 
 
-
-[![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/arturcampos/arturcampos/master?label=Last%20updated&style=flat)](https://github.com/arturcampos/arturcampos/commits)
 
 
 <!--
