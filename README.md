@@ -4,7 +4,10 @@
 
 <hr />
 	<a href="mailto:arturcapos13@gmail.com">
-	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+	  <img align="left" alt="gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+	</a>
+	<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  	  <img align="left" alt="LinkdeIN" width="22px" src="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US" />
 	</a>
 <br/>
 
@@ -25,7 +28,7 @@
 ## ⚡ Technologies I love and use
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">                                                        
 </div>
 
