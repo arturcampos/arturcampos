@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-arturcamposrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US)
 
 
 ### Hi there, I'm Artur, welcome my GitHub 💻
