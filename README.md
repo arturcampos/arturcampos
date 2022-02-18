@@ -4,10 +4,10 @@
 
 <hr />
 	<a href="mailto:arturcapos13@gmail.com">
-	  <img align="left" alt="gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+	  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 	</a>
-	<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  	  <img align="left" alt="LinkdeIN" width="22px" src="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US" />
+	<a target="_blank" href="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US">
+  	  <img align="left" width="22px" src="https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US" />
 	</a>
 <br/>
 
