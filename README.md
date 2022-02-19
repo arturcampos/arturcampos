@@ -9,7 +9,7 @@
 - ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
 - 🔭 I’m currently working on event-driven initiatives.
 - 🌱 I’m currently learning Kafka, goLang and improving archtecture knowledge.
-- 🧰 At the moment I have more private work than public ones. Now I'm planning to change the game. 🎮
+- 🧰 At the moment I have more private work than public ones. Now it's time to change the game. 🎮
 
 
 ### About my coding activity
