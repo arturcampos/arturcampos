@@ -6,15 +6,19 @@
 ## Hi there, I'm Artur, welcome my GitHub 🪐
 
 ### About Me
+- 😄 Pronouns: He/Him
 - 💻 Backend Software Engineer
 - 📖 Information System undergraduate course at UFU (Federal University of Uberlândia), Brazil
 
+---
+
 ### What I am up to
-🔦 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 - Improve fullstack software engineer knowledge
 - To get my first AWS cerfication
 - Learn JavaScript, Node.js and Kotlin
 - Live abroad
+
+---
 
 ### About my coding activity
 <div >
@@ -25,7 +29,6 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcampos&layout=compact&langs_count=7&theme=dark" />
 </a>
 </div>
-
 
 	
 ### ⚡ Technologies I love and use
@@ -47,6 +50,8 @@
   ----
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **arturcampos/arturcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,7 +63,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ ...
 - ⚡ Fun fact: ...
 -->
 
