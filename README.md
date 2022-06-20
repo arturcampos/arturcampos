@@ -6,11 +6,15 @@
 ## Hi there, I'm Artur, welcome my GitHub 🪐
 
 ### About Me
-- ⭐ My porpouse is to make world a better place using everything I've learned about technology and people behavior.
-- 🔭 I’m currently working on event-driven initiatives.
-- 🌱 I’m currently learning Kafka, goLang and improving architecture cloud computing knowledge. 
-- 🧰 At the moment I have more private work than public ones. Now it's time to game-change. 🎮
+- 💻 Backend Software Engineer
+- 📖 Information System undergraduate course at UFU (Federal University of Uberlândia), Brazil
 
+### What I am up to
+🔦 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- Improve fullstack software engineer knowledge
+- To get my first AWS cerfication
+- Learn JavaScript, Node.js and Kotlin
+- Live abroad
 
 ### About my coding activity
 <div >
@@ -42,7 +46,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=arturcampos&color=blue)
   ----
 
-
+<!--START_SECTION:activity-->
 <!--
 **arturcampos/arturcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
