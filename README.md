@@ -14,7 +14,7 @@
 
 ### What I am up to
 - Improve fullstack software engineer knowledge
-- To get my first AWS cerfication
+- To get my first AWS certification
 - Learn JavaScript, Node.js and Kotlin
 - Live abroad
 
