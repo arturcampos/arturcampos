@@ -7,13 +7,13 @@
 
 ### About Me
 - 😄 Pronouns: He/Him
-- 💻 Backend Software Engineer
+- 💻 Backend Software Engineer and Tech Lead (Experienced with solution architecture)
 - 📖 Information System undergraduate course at UFU (Federal University of Uberlândia), Brazil
 
 ---
 
 ### What I am up to
-- Improve fullstack software engineer knowledge
+- Improve achitecture skills and development skills
 - To get my first AWS certification
 - Learn JavaScript, Node.js and Kotlin
 - Live abroad
