@@ -1,22 +1,15 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-arturcampos13@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arturcampos13@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-arturcamposrodrigues-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arturcamposrodrigues/?locale=en_US/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@_artur_campos-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=_artur_campos "Follow on Twitter")
 
 ## Hi there, I'm Artur, welcome my GitHub 🪐
 
-### About Me
+I am a software engineer with cloud-native microservice experience.
+
 - 😄 Pronouns: He/Him
-- 💻 Backend Software Engineer and Tech Lead (Experienced with solution architecture)
 - 📖 Information System undergraduate course at UFU (Federal University of Uberlândia), Brazil
+- 💻 Stack: Java, SpringBoot, Golang, Kubernetes, AWS
 
----
-
-### What I am up to
-- Improve achitecture skills and development skills
-- To get my first AWS certification
-- Learn JavaScript, Node.js and Kotlin
-- Live abroad
 
 ---
 
@@ -41,7 +34,9 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat-square&logo=rabbitmq)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-gray?style=flat-square&logo=googleCloud)
+![AWS](https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=flat-square&logo=kubernetes)
+![Kafka](https://img.shields.io/badge/ApacheKafka-gray?style=flat-square&logo=apachekafka)
 
 
 
