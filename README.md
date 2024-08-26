@@ -8,7 +8,7 @@ I am a software engineer with cloud-native microservice experience.
 
 - 😄 Pronouns: He/Him
 - 📖 Information System undergraduate course at UFU (Federal University of Uberlândia), Brazil
-- 💻 Stack: Java, SpringBoot, Golang, Kubernetes, AWS
+- 💻 Stack: Java, SpringBoot, Kubernetes, AWS
 
 
 ---
