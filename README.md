@@ -28,14 +28,16 @@ I am a software engineer with cloud-native microservice experience.
   
 ![Java](https://img.shields.io/badge/Java-darkred?style=flat-square&logo=java)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-darkred?style=flat-square&logo=springboot)
-![MongoDb](https://img.shields.io/badge/MongoDB-darkred?style=flat-square&logo=mongodb)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb)
 ![Go](https://img.shields.io/badge/Go-darkblue?style=flat-square&logo=go)
-![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat-square&logo=rabbitmq)
-![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/Python-lightyellow?style=flat-square&logo=python)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-white?style=flat-square&logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-darkblue?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=flat-square&logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/ApacheKafka-gray?style=flat-square&logo=apachekafka)
+
 
 
 
