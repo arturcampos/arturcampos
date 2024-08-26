@@ -33,7 +33,6 @@ I am a software engineer with cloud-native microservice experience.
 ![Python](https://img.shields.io/badge/Python-darkblue?style=flat-square&logo=python)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-gray?style=flat-square&logo=rabbitmq)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker)
-![GoogleCloud](https://img.shields.io/badge/GoogleCloud-gray?style=flat-square&logo=googleCloud)
 ![AWS](https://img.shields.io/badge/AWS-gray?style=flat-square&logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-gray?style=flat-square&logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/ApacheKafka-gray?style=flat-square&logo=apachekafka)
